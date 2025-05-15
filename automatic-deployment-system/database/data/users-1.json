@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Haidar Prayoga",
+            "nim": "202351048",
+            "password": "osh87A"
+        },
+        {
+            "department": "Anggota",
+            "position": "Anggota",
+            "name": "M Khoirur Rofi",
+            "nim": "202351089",
+            "password": "7Su8sh"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Satyatma Raka Wiratama",
+            "nim": "202351024",
+            "password": "7hsS98"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Chelyn Audya Widany",
+            "nim": "202353100",
+            "password": "Awds89"
+        }
+    ]
+}

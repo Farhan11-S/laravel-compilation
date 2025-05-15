@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Enums;
+
+enum CouponType: string
+{
+    case REGISTRATION = 'REGISTRATION';
+    case DISCOUNT_COUPON_JOBSEEKER = 'DISCOUNT_COUPON_JOBSEEKER';
+    case DISCOUNT_COUPON_EMPLOYER = 'DISCOUNT_COUPON_EMPLOYER';
+}

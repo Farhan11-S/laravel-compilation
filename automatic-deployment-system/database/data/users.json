@@ -1,0 +1,424 @@
+{
+    "data": [
+        {
+            "department": "Badan Pengurus Harian",
+            "position": "Ketua Umum",
+            "name": "Barik Liahmada",
+            "nim": "202251053",
+            "password": "VwKXtB"
+        },
+        {
+            "department": "Badan Pengurus Harian",
+            "position": "Wakil Ketua",
+            "name": "Azriel Akbar Ferry Ardiansyah KW",
+            "nim": "202351099",
+            "password": "K8MFRb"
+        },
+        {
+            "department": "Badan Pengurus Harian",
+            "position": "Sekretaris 1",
+            "name": "Laura Trineta Aterlin",
+            "nim": "202351040",
+            "password": "lKIytM"
+        },
+        {
+            "department": "Badan Pengurus Harian",
+            "position": "Sekretaris 2",
+            "name": "Zayyan Cahya Ramadhan",
+            "nim": "202251018",
+            "password": "JwSS0l"
+        },
+        {
+            "department": "Badan Pengurus Harian",
+            "position": "Bendahara 1",
+            "name": "Dwi Kusnadia Lestari",
+            "nim": "202253135",
+            "password": "726U9Z"
+        },
+        {
+            "department": "Badan Pengurus Harian",
+            "position": "Bendahara 2",
+            "name": "Andreas Wenang Noviananto",
+            "nim": "202351079",
+            "password": "DIK5NN"
+        },
+        {
+            "department": "Badan Pengurus Harian",
+            "position": "Sarpras 1",
+            "name": "Azka Bima Aditya",
+            "nim": "202251131",
+            "password": "rWoCzp"
+        },
+        {
+            "department": "Badan Pengurus Harian",
+            "position": "Sarpras 2",
+            "name": "Chirza Rahman",
+            "nim": "202253048",
+            "password": "3sunYw"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Kepala Departemen",
+            "name": "Farhan Sangaji",
+            "nim": "202351086",
+            "password": "ZT881n"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Kepala Divisi Pengembangan Internal*",
+            "name": "Mohammad Minan Abdul Nafi",
+            "nim": "202251057",
+            "password": "J2TA6Q"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Nava Azahra",
+            "nim": "202353052",
+            "password": "IjT3d3"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Eva Silfiatul Alya",
+            "nim": "202453128",
+            "password": "91FzlJ"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Riana Khafidhotun Ni'mah",
+            "nim": "202351176",
+            "password": "neyXeF"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Amelia Rahmawati",
+            "nim": "202353098",
+            "password": "4tz3GE"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Canes Nur Amandasari",
+            "nim": "202353122",
+            "password": "sVyj66"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Kepala Divisi Study and Development*",
+            "name": "Daffa' Fairuz Aditya",
+            "nim": "202251114",
+            "password": "yz8WDe"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Khafid Rosidi",
+            "nim": "202453071",
+            "password": "bdoGd1"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Arba Rinata",
+            "nim": "202353062",
+            "password": "UA9AmA"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Wahyu Dhani Prayoga",
+            "nim": "202353094",
+            "password": "oxBKxX"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "MUHAMAD IQBAL BAHTIAR",
+            "nim": "202351056",
+            "password": "vmLWwt"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Muhammad Bintang Pamungkas",
+            "nim": "202351067",
+            "password": "QEttO0"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Aditya Maulana Afrizal",
+            "nim": "202253084",
+            "password": "3JAuAw"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Moh Baidlowi Syafik",
+            "nim": "202351149",
+            "password": "zbHxZv"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Dika El Baradei",
+            "nim": "202353072",
+            "password": "gtK6Dq"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "Mukhammad Zaenofi",
+            "nim": "202351153",
+            "password": "QUR5sQ"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "MUHAMMAD FAHMI FAHROBI",
+            "nim": "202451222",
+            "password": "t1qeY9"
+        },
+        {
+            "department": "Departemen Research and Development",
+            "position": "Anggota",
+            "name": "ARYA SUBASTIAN",
+            "nim": "202353066",
+            "password": "Ja3SQU"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Kepala Departemen",
+            "name": "Syafri Samsudin",
+            "nim": "202251124",
+            "password": "90Eqxh"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Kepala Divisi Social Media*",
+            "name": "Rifki Indra Zakaria",
+            "nim": "202251011",
+            "password": "Sj5CA8"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Anggota ",
+            "name": "Tirta Nita",
+            "nim": "202353078",
+            "password": "edstmK"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Anggota ",
+            "name": "Tirta Wahyu Firmansyah",
+            "nim": "202353101",
+            "password": "ccOWsl"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Kepala Divisi Design environment*",
+            "name": "Nanda Bagus Yulianto",
+            "nim": "202353142",
+            "password": "Tst0Vr"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Anggota",
+            "name": "Muhammad Fajar Maulana",
+            "nim": "202353015",
+            "password": "9Zgi5E"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Anggota",
+            "name": "M. FICKY ZULFIKAR",
+            "nim": "202251014",
+            "password": "RJInFy"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Anggota",
+            "name": "Nanda Lutfi Rizqiyanto",
+            "nim": "202353024",
+            "password": "Ce0N1X"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Anggota",
+            "name": "Nabil Fathan Adifatirta",
+            "nim": "202351081",
+            "password": "1VK4ye"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Kepala Divisi Dokumentasi & Content environment*",
+            "name": "Galih Angga Mukti",
+            "nim": "202251117",
+            "password": "FHjSND"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Anggota",
+            "name": "Muhammad Rifky Nur rahman",
+            "nim": "202451012",
+            "password": "H3bCWE"
+        },
+        {
+            "department": "Departemen Media and Press",
+            "position": "Anggota",
+            "name": "Wahyu Setyaningsih",
+            "nim": "202353085",
+            "password": "XnUkBr"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Kepala Departemen",
+            "name": "Afif Rizkyan Syah",
+            "nim": "202251039",
+            "password": "3JFIrJ"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Kepala Divisi Pengawas Internal*",
+            "name": "Suci Inna Rusmarica",
+            "nim": "202351095",
+            "password": "g7uucB"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Anggota",
+            "name": "Nilatul fitriyah",
+            "nim": "202353082",
+            "password": "6zUsDA"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Anggota",
+            "name": "Vita Nurus Salamah",
+            "nim": "202353118",
+            "password": "doU1LG"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Anggota",
+            "name": "Dwi Mulyono",
+            "nim": "202351141",
+            "password": "xMcy1H"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Kepala Divisi Penguatan Internal*",
+            "name": "SENDY PRABOWO",
+            "nim": "202451209",
+            "password": "O1DE50"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Anggota",
+            "name": "Muhammad Ulil Abror",
+            "nim": "202351125",
+            "password": "m8Z275"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Anggota",
+            "name": "Muhammad Islahul khozani",
+            "nim": "202351078",
+            "password": "kS0rU1"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Anggota",
+            "name": "Ahmad Zaky Alfuady",
+            "nim": "202451197",
+            "password": "Vo7JH9"
+        },
+        {
+            "department": "Departemen Kaderisasi",
+            "position": "Anggota",
+            "name": "Akbar Krisna Bahrul Alam",
+            "nim": "202451199",
+            "password": "VXXRNz"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Kepala Departemen",
+            "name": "winahyu pandu rizki",
+            "nim": "202251079",
+            "password": "fYMG2R"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Kepala Divisi Hubungan Luar & Kerja sama*",
+            "name": "Tegar Oktaviano Ramadhan",
+            "nim": "202253006",
+            "password": "fAY3bT"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Anggota",
+            "name": "Ilham Atta Nugraha",
+            "nim": "202351142",
+            "password": "gbD9g1"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Anggota",
+            "name": "Ardiansyah",
+            "nim": "202353121",
+            "password": "19DJAD"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Anggota",
+            "name": "ENDHITO HAFIZ MEIFAZA",
+            "nim": "202353148",
+            "password": "OwCbtm"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Anggota",
+            "name": "MUhammad Noor Andriyanto",
+            "nim": "202351140",
+            "password": "pjVPxW"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Kepala Divisi Sponsorship*",
+            "name": "Aditya Nur Yulistianto",
+            "nim": "202251050",
+            "password": "gBO8pG"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Anggota",
+            "name": "satriyo priyo widjaksono",
+            "nim": "202451221",
+            "password": "IVjblo"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Anggota",
+            "name": "Muhammad Surya Ibrahim",
+            "nim": "202451014",
+            "password": "8e3Hx3"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Anggota",
+            "name": "NALENDRA CAHAYA HERADITYA",
+            "nim": "202353102",
+            "password": "VuGy4P"
+        },
+        {
+            "department": "Departemen Komunikasi Eksternal",
+            "position": "Anggota",
+            "name": "Putra Alifvaturrokhim",
+            "nim": "202351109",
+            "password": "7pfJlV"
+        }
+    ]
+}
